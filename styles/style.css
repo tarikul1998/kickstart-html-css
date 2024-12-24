@@ -47,9 +47,8 @@
     border-left: 0;
     border-right: 0;
     border-color: maroon;
-    /* p-bottom dile = se tar content ke kichu inner space dilo */
-    padding-bottom: 30px;
 
+    padding-bottom: 30px;
     margin-bottom: 60px;
 }
     
@@ -58,16 +57,10 @@
     line-height: 2em; /* text er height basis jaiga nibe */
 }
 .article p span{
-    /* font-size: 100px; = screen joto e choto kori, eita 100px jaiga nicche */
-    /*mane font-size = 28px || eikhane parent er font-size niye kaaj korbe*/
-    /* em dile size komaile screen er likha choto hocche again if required barche(responsive) */
-    /*2em mane parent er font-size theke 2 gun beshi jaiga nibo 28 * 2 = 56px jaiga nicche*/
     font-size: 2em;  
     background-color: palegreen;
-    /* width: 600px; */ /* er jonno display block korte hobe d-inline block likhle width ta nibe*/
-    
 }
-/* Inline Element = content er height/width nibe nah = span ekta inline element */
+
 #cow-type .cow-images{
     display: flex; 
     gap: 20px;
