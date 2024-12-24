@@ -30,13 +30,10 @@
 
 
 .article, #cow-type {
-    /* background-color: rgb(126, 227, 227); */
     width: 80%;
     margin: 60px auto;
     padding: 60px;
     border: 10px solid yellow;
-    /* background: linear-gradient(pink,blue); */
-    /* background: linear-gradient(pink, rgb(122,122,244)); niche 45deg angle theke light ta dibe add red niche at the end*/
     background: linear-gradient(45deg,pink, rgb(122,122,244));
 }
 
