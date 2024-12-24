@@ -15,12 +15,10 @@
    
 
 }
-
+/*inspect h1 dekhbo full width ta niye nise*/  /* Full width peye h1 ke dhore center e niye ashlam */
 .hero h1 {
     color: azure;
     font-size: 100px;
-    /*inspect h1 dekhbo full width ta niye nise*/
-    /* Full width peye h1 ke dhore center e niye ashlam */
     text-align: center;
     font-weight: 900;
     padding-top: 40px;
@@ -28,6 +26,8 @@
     word-spacing: 40px;
     letter-spacing: 20px;
 }
+
+
 
 /* box-model = margin, border, padding, content */
 /* margin-left: 100px; = margin-right: 100px; use width and auto *//* browser e joto tuku width silo = tar 80% nibe*/
