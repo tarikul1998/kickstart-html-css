@@ -29,15 +29,6 @@
 
 
 
-/* box-model = margin, border, padding, content */
-
-/* margin-left: 100px; = margin-right: 100px; use width and auto *//* browser e joto tuku width silo = tar 80% nibe*/
-
-/* margin-left: auto;*/
-
-/* ml:auto || mr-auto = majhe aanbe amar box ta ke */
-
-/*w-80% diye ml-auto mane tumi left theke as far possible margin nio*/
 .article, #cow-type {
     /* background-color: rgb(126, 227, 227); */
     width: 80%;
