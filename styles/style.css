@@ -67,8 +67,7 @@
     justify-content: space-between;
     /* flex-wrap: wrap; flex-direcrion:row thake */
 }
-/* since amar image guli ber hoye gese from parent .cow-images */
-/* jodi ekta img div cancel kore = jc-center kori majhe ashbe = sp dile dui pashe rakhbe*/
+
 .cow-images div{
     min-height: 300px;
 }
