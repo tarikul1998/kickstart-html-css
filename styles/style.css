@@ -7,16 +7,14 @@
 }
 
 .hero {
-        background-image: url('../images/cow.jpg');
-    /* height: 700px; */
-    height: 100vh;
-    /*height full screen jure nibe* = all side e gap ashbe halta tao sob 0 korlam upore*/
+    background-image: url('../images/cow.jpg');
+    height: 100vh;  /* height: 700px; */
     background-position: bottom center;
     /*cow ta niche ashbe then center ashbe*/
     background-size: cover;
+   
+
 }
-
-
 
 .hero h1 {
     color: azure;
