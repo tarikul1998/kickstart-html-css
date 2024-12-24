@@ -7,8 +7,7 @@
 }
 
 .hero {
-    /* ../ amake folder theke ber korbe */
-    background-image: url('../images/cow.jpg');
+        background-image: url('../images/cow.jpg');
     /* height: 700px; */
     height: 100vh;
     /*height full screen jure nibe* = all side e gap ashbe halta tao sob 0 korlam upore*/
@@ -16,6 +15,8 @@
     /*cow ta niche ashbe then center ashbe*/
     background-size: cover;
 }
+
+
 
 .hero h1 {
     color: azure;
